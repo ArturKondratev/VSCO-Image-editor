@@ -5,4 +5,5 @@
     VSCO-Image-editor
 </h1>
 
-  <img src="https://github.com/rturKondratev/VSCO-Image-editor/Screen/Simulator-Screen.gif" width="250">
+  <img src="https://github.com/ArturKondratev/VSCO-Image-editor/blob/main/Screen/Simulator-Screen.gif?raw=true" width="250">
+  
